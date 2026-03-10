@@ -1,5 +1,3 @@
-# New-Era-Web-Dev-roadmap
-
 graph TD
     %% Giai đoạn 1: Nền tảng Tư duy
     Start((BẮT ĐẦU)) --> Phase1[Giai đoạn 1: Tư duy Hệ thống & Phân tích]
